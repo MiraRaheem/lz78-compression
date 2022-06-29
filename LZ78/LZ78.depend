@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1570653313 source:c:\users\mira\desktop\new folder (2)\lz78\main.cpp
+	<iostream>
+	<iterator>
+	<string>
+	<map>
+	<vector>
+
